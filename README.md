@@ -1,9 +1,9 @@
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="max-width:100%;">, I'm Joshwa Shahbaz</h1>
 <h2>Welcome  to my github profile</h2>
 <br>
-<p>I am front-end developer</p>
+<p>I am front-end developer <img align="right" src="https://media2.giphy.com/media/436hhtZJQAT86nomhG/200w.webp?cid=ecf05e471uy12rt6oq6y1cwzlp89cys1oos52c58zl59uhau&rid=200w.webp&ct=g" width=""500px></p>
 
-<img align="right" src="https://media2.giphy.com/media/436hhtZJQAT86nomhG/200w.webp?cid=ecf05e471uy12rt6oq6y1cwzlp89cys1oos52c58zl59uhau&rid=200w.webp&ct=g" width=""500px>
+
 <h2> About Me </h2>
 
 <img width="55%" align="right" alt="Noman Ishaq" src="https://www.lewisu.edu/experts/wordpress/wp-content/uploads/2019/02/coding.jpg" height="20%" />
@@ -27,19 +27,7 @@
 <li>Bootstrap</li>
 <li>Jquery</li>
 <li>Css Flex</li>
-<li>Saas</li>
-<li>Es6</li>
-<li>React.js</li>
-<li>Angular.js</li>
-<li>TypeScript</li>
-<li>Node.js</li>
-<li>Firebase</li>
-<li>C#</li>
-<li>Sql server</li>
-<li>Asp.Net (MVC)</li>
-<li>My Sql</li>
-<li>Php</li>
-<li>Laravel</li>
+ <li>Saas</li>
 </ul>  
 
 <br/>
